@@ -1,0 +1,4 @@
+cluster,segment,customers,mean_recency_days,mean_frequency,mean_monetary,total_revenue,median_items_per_order,mean_cancel_rate,pct_customers,pct_revenue
+1,"High-value, recent",731,13.644,13.479,7525.155,5500888.11,215.833,0.145,16.913,65.955
+2,"Mid-value, cooling",1685,46.275,3.49,1292.628,2178078.27,178.5,0.114,38.987,26.115
+0,"Low-value, lapsed",1906,163.179,1.328,346.977,661338.09,126.0,0.074,44.1,7.929

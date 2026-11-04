@@ -1,0 +1,4 @@
+model,MAE,RMSE,MAPE_%
+ARIMA,19250.59,21055.11,12.67
+Regression (lags + trend),18250.05,21877.99,11.32
+Naive (last week),20134.88,25662.85,14.16

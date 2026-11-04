@@ -1,0 +1,7 @@
+variable,segment_a,segment_b,p_adjusted
+avg_items_per_order,0,1,1.1711453561248564e-58
+avg_items_per_order,0,2,5.0711050925341265e-43
+avg_items_per_order,1,2,2.8938543064868035e-08
+cancel_rate,0,1,5.083183495859213e-110
+cancel_rate,0,2,2.6586560200421494e-34
+cancel_rate,1,2,7.629274803362917e-19
